@@ -3,10 +3,7 @@ import treelogo from './images/logo-1.jpg';
 import banner2 from './images/banner1 (2).jpg';
 import banner3 from './images/Business-Web-Banner-19.jpg'
 
-import Slider from "react-slick"; 
-import "slick-carousel/slick/slick.css";  
-import "slick-carousel/slick/slick-theme.css";  
-import { unmountComponentAtNode } from 'react-dom';
+// import { unmountComponentAtNode } from 'react-dom';
 
 
 
